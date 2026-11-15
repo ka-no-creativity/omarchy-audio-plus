@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "franz.audio",
+  "name": "Audio Plus",
+  "version": "1.0.0",
+  "author": "ka-no-creativity; Omarchy contributors",
+  "description": "Audio meters, output test, independent mute and system-wide ALSA endpoint hiding",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Audio Plus",
+    "description": "Audio meters, output test, independent mute and system-wide ALSA endpoint hiding",
+    "category": "Audio",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.audio"
+  }
+}

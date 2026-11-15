@@ -1,0 +1,4 @@
+Panel.qml and Model.js are derived from Omarchy 4.5.0-3, by David Heinemeier Hansson and Omarchy contributors, under the MIT license (see LICENSE).
+Upstream: https://github.com/basecamp/omarchy/tree/master/shell/plugins/panels/audio
+Modifications and new helpers: Copyright (c) 2026 ka-no-creativity, MIT.
+The test tone is generated mathematically by helpers/generate_tone.py; no third-party recording is used.

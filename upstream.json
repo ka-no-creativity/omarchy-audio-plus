@@ -1,0 +1,9 @@
+{
+  "package": "omarchy 4.5.0-3",
+  "source": "https://github.com/basecamp/omarchy",
+  "files": {
+    "Panel.qml": "f75564d2a8be05a18d832be926747b298401748d6e976a0c39f9053456439d09",
+    "Model.js": "cac32aa2c2a2449223f64bfd935be360b4f61eb8112d4f62dc21270447eaee1b",
+    "manifest.json": "8322d00019751f81d80c8748be736b380d8cb375721806aa8987ee5200b6e487"
+  }
+}
